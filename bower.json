@@ -1,0 +1,18 @@
+{
+  "name": "adapt-googleAnalytics",
+  "repository": "git://github.com/anujgtm/adapt-googleanalytics",
+  "version": "2.0.4",
+  "framework": "^2.0.0",
+  "homepage": "",
+  "issues": "",
+  "displayName" : "Adapt Google Analytics",
+  "extension" : "adaptgoogleanalytics",
+  "description": "An extension to track page views using google analytics",
+  "main": "/js/adapt-googleAnalytics.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_analytics"
+}
